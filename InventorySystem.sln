@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorySystem.Api", "InventorySystem.Api\InventorySystem.Api.csproj", "{CFE71D6B-96D0-4A8F-845F-CA6AD545CE75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Api", "InventorySystem.Api\App.Api.csproj", "{CFE71D6B-96D0-4A8F-845F-CA6AD545CE75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvetorySystem.Core", "InvetorySystem.Core\InvetorySystem.Core.csproj", "{B180AF97-FBC1-48DC-A9F9-17C37E42151C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.Core", "InvetorySystem.Core\App.Core.csproj", "{B180AF97-FBC1-48DC-A9F9-17C37E42151C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventorySystem.EF", "InventorySystem.EF\InventorySystem.EF.csproj", "{CE1526FA-E39D-4093-895E-C788406B2625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App.EF", "InventorySystem.EF\App.EF.csproj", "{CE1526FA-E39D-4093-895E-C788406B2625}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
